@@ -1,0 +1,96 @@
+2024-07-11 14:28:48,417:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/2049171987.py:7: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='prov', y='cantidad', data=casos_provincia, palette=paleta, order=casos_provincia.sort_values('cantidad', ascending=False)['prov'])
+
+2024-07-11 14:44:09,075:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/3732504610.py:10: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta_filtrada_por_edad['edad_desc'] = pd.Categorical(TablaCompleta_filtrada_por_edad['edad_desc'], categories=orden_edad, ordered=True)
+
+2024-07-11 14:44:09,076:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/3732504610.py:13: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  conteo_por_edad = TablaCompleta_filtrada_por_edad.groupby('edad_desc')['cantidad'].sum()
+
+2024-07-11 14:44:09,099:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/3732504610.py:18: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='cantidad', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-11 14:44:09,099:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/3732504610.py:18: UserWarning: The palette list has more values (24) than needed (9), which may not be intended.
+  sns.barplot(x='cantidad', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-11 14:46:26,627:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/44078620.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta_filtrada_por_edad['edad_desc'] = pd.Categorical(TablaCompleta_filtrada_por_edad['edad_desc'], categories=orden_edad, ordered=True)
+
+2024-07-11 14:46:51,034:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/2049171987.py:7: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='prov', y='cantidad', data=casos_provincia, palette=paleta, order=casos_provincia.sort_values('cantidad', ascending=False)['prov'])
+
+2024-07-11 14:47:36,430:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/44078620.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta_filtrada_por_edad['edad_desc'] = pd.Categorical(TablaCompleta_filtrada_por_edad['edad_desc'], categories=orden_edad, ordered=True)
+
+2024-07-11 14:48:25,807:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/3565061376.py:2: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  conteo_por_edad = TablaCompleta_filtrada_por_edad.groupby('edad_desc')['cantidad'].sum()
+
+2024-07-11 14:49:21,994:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/44078620.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta_filtrada_por_edad['edad_desc'] = pd.Categorical(TablaCompleta_filtrada_por_edad['edad_desc'], categories=orden_edad, ordered=True)
+
+2024-07-11 15:05:21,629:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/2049171987.py:7: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='prov', y='cantidad', data=casos_provincia, palette=paleta, order=casos_provincia.sort_values('cantidad', ascending=False)['prov'])
+
+2024-07-11 15:05:48,276:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/44078620.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  TablaCompleta_filtrada_por_edad['edad_desc'] = pd.Categorical(TablaCompleta_filtrada_por_edad['edad_desc'], categories=orden_edad, ordered=True)
+
+2024-07-11 15:05:50,867:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/3565061376.py:2: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  conteo_por_edad = TablaCompleta_filtrada_por_edad.groupby('edad_desc')['cantidad'].sum()
+
+2024-07-11 15:06:32,588:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/1069297861.py:2: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x='cantidad', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-11 15:06:32,589:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/1069297861.py:2: UserWarning: The palette list has more values (23) than needed (9), which may not be intended.
+  sns.barplot(x='cantidad', y='edad_desc',palette=paleta, data=conteo_por_edad)
+
+2024-07-11 15:07:10,173:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/265963853.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_Buenos_aires['cantidad'] = df_Buenos_aires['cantidad'].astype(int)
+
+2024-07-11 15:07:19,453:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/3361722643.py:2: FutureWarning: 
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(df_depto_BsAs_max, palette=paleta)
+
+2024-07-11 15:07:19,454:WARNING:/var/folders/46/9s45wmy9699b24x4g7424hym0000gn/T/ipykernel_4040/3361722643.py:2: UserWarning: The palette list has more values (23) than needed (15), which may not be intended.
+  sns.barplot(df_depto_BsAs_max, palette=paleta)
+

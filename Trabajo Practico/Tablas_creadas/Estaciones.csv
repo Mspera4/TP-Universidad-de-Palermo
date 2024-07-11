@@ -1,0 +1,114 @@
+index,Estacion,depto,prov,prov_id
+0,87641,Azul,Buenos Aires,6
+1,87750,Bahia Blanca,Buenos Aires,6
+2,87649,Benito Juarez,Buenos Aires,6
+3,87640,Bolivar,Buenos Aires,6
+4,87570,Campo De Mayo,Buenos Aires,6
+5,87683,Coronel Pringles,Buenos Aires,6
+6,87637,Coronel Suarez,Buenos Aires,6
+7,87648,Dolores,Buenos Aires,6
+8,87571,El Palomar,Buenos Aires,6
+9,87576,Ezeiza,Buenos Aires,6
+10,87548,Junin,Buenos Aires,6
+11,87593,La Plata,Buenos Aires,6
+12,87563,Las Flores,Buenos Aires,6
+13,87692,Mar Del Plata,Buenos Aires,6
+14,87572,Mariano Moreno,Buenos Aires,6
+15,87573,Merlo,Buenos Aires,6
+16,87574,Moron,Buenos Aires,6
+17,87550,Nueve De Julio,Buenos Aires,6
+18,87643,Olavarria,Buenos Aires,6
+19,87544,Pehuajo,Buenos Aires,6
+20,87679,Pigue,Buenos Aires,6
+21,87596,Punta Indio B.A.,Buenos Aires,6
+22,87553,San Fernando,Buenos Aires,6
+23,87658,Santa Teresita,Buenos Aires,6
+24,87645,Tandil,Buenos Aires,6
+25,87540,Trenque Lauquen,Buenos Aires,6
+26,87688,Tres Arroyos,Buenos Aires,6
+27,87663,Villa Gesell,Buenos Aires,6
+30,87222,Catamarca,Catamarca,10
+31,87211,Tinogasta,Catamarca,10
+32,87148,Pcia. Roque Saenz PeﾑA,Chaco,22
+33,87155,Resistencia,Chaco,22
+34,87860,Comodoro Rivadavia,Chubut,26
+35,87803,Esquel,Chubut,26
+36,87814,Paso De Indios,Chubut,26
+37,87823,Puerto Madryn,Chubut,26
+38,87828,Trelew,Chubut,26
+39,87344,Cordoba,Córdoba,14
+40,87345,Cordoba Observatorio,Córdoba,14
+41,87347,Esc.Aviacion Militar,Córdoba,14
+42,87534,Laboulaye,Córdoba,14
+43,87467,Marcos Juarez,Córdoba,14
+44,87349,Pilar Obs.,Córdoba,14
+45,87453,Rio Cuarto,Córdoba,14
+46,87328,Villa Dolores,Córdoba,14
+47,87244,Villa Maria Del Rio Seco,Córdoba,14
+48,87166,Corrientes,Corrientes,18
+49,87173,Ituzaingo,Corrientes,18
+50,87281,Mercedes  (Ctes),Corrientes,18
+51,87393,Monte Caseros,Corrientes,18
+52,87289,Paso De Los Libres,Corrientes,18
+56,87162,Formosa,Formosa,34
+57,87078,Las Lomitas,Formosa,34
+58,87046,Jujuy,Jujuy,38
+59,87043,Jujuy U N,Jujuy,38
+60,87007,La Quiaca Obs.,Jujuy,38
+61,87532,General Pico,La Pampa,42
+62,87623,Santa Rosa,La Pampa,42
+63,87616,Victorica,La Pampa,42
+64,87320,Chamical,La Rioja,46
+65,87322,Chepes,La Rioja,46
+66,87213,Chilecito,La Rioja,46
+67,87217,La Rioja,La Rioja,46
+68,87506,Malargue,Mendoza,50
+69,87418,Mendoza,Mendoza,50
+70,87420,Mendoza Observatorio,Mendoza,50
+71,87412,San Carlos (Mza),Mendoza,50
+72,87416,San Martin (Mza),Mendoza,50
+73,87509,San Rafael,Mendoza,50
+74,87405,Uspallata,Mendoza,50
+75,87163,Bernardo De Irigoyen,Misiones,54
+76,87097,Iguazu,Misiones,54
+77,87187,Obera,Misiones,54
+78,87178,Posadas,Misiones,54
+79,87761,Chapelco,Neuquén,58
+80,87715,Neuquen,Neuquén,58
+81,87765,Bariloche,Río Negro,62
+82,87719,Cipolletti,Río Negro,62
+83,87800,El Bolson,Río Negro,62
+84,87774,Maquinchao,Río Negro,62
+85,87736,Rio Colorado,Río Negro,62
+86,87784,San Antonio Oeste,Río Negro,62
+87,87791,Viedma,Río Negro,62
+88,87050,Metan,Salta,66
+89,87016,Oran,Salta,66
+90,87065,Rivadavia,Salta,66
+91,87047,Salta,Salta,66
+92,87022,Tartagal,Salta,66
+93,87305,Jachal,San Juan,70
+94,87311,San Juan,San Juan,70
+95,87436,San Luis,San Luis,74
+96,87444,Santa Rosa De Conlara,San Luis,74
+97,87448,Villa Reynolds,San Luis,74
+98,87904,El Calafate,Santa Cruz,78
+99,87880,Gobernador Gregores,Santa Cruz,78
+100,87852,Perito Moreno,Santa Cruz,78
+101,87896,Puerto Deseado,Santa Cruz,78
+102,87925,Rio Gallegos,Santa Cruz,78
+103,87909,San Julian,Santa Cruz,78
+104,87912,Santa Cruz,Santa Cruz,78
+105,87257,Ceres,Santa Fe,82
+106,87470,El Trebol,Santa Fe,82
+107,87360,Rafaela,Santa Fe,82
+108,87270,Reconquista,Santa Fe,82
+109,87480,Rosario,Santa Fe,82
+110,87371,Sauce Viejo,Santa Fe,82
+111,87356,Sunchales,Santa Fe,82
+112,87468,Venado Tuerto,Santa Fe,82
+113,87129,Santiago Del Estero,Santiago Del Estero,86
+114,87127,Termas De Rio Hondo,Santiago Del Estero,86
+115,87934,Rio Grande B.A.,Tierra Del Fuego,94
+116,87938,Ushuaia,Tierra Del Fuego,94
+117,87121,Tucuman,Tucumán,90
