@@ -1,0 +1,6 @@
+2024-07-12 16:56:19,427:WARNING:/tmp/ipykernel_6173/2398126291.py:48: FutureWarning: The provided callable <function sum at 0x70c5ac7145e0> is currently using DataFrameGroupBy.sum. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "sum" instead.
+  cuatrimestre_sumatorias = pd.pivot_table(
+
+2024-07-12 16:56:41,143:WARNING:/tmp/ipykernel_6173/3397771484.py:48: FutureWarning: The provided callable <function sum at 0x70c5ac7145e0> is currently using DataFrameGroupBy.sum. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "sum" instead.
+  cuatrimestre_sumatorias = pd.pivot_table(
+
