@@ -1,20 +1,13 @@
 edad_id,edad_desc
 0,Desconocido/Sin Especificar
 1,Menor a 1 año
-2,Igual a 1 año
-2,igual a 1 año
+2,Igual A 1 Año
+3,De 2 A 4 Años
 3,1 a 2 años
-3,De 2 a 4 años
-3,de 2 a 4 años
-4,De 5 a 9 años
-4,de 5 a 9 años
-5,De 10 a 14 años
-5,de 10 a 14 años
+4,De 5 A 9 Años
+5,De 10 A 14 Años
 6,De 15 a 24 años
-7,De 25 a 34 años
-7,de 25 a 34 años
-8,de 35 a 44 años
-8,De 35 a 44 años
-9,De 45 a 64 años
-9,de 45 a 64 años
+7,De 25 A 34 Años
+8,De 35 A 44 Años
+9,De 45 A 64 Años
 10,Mayor a 65 años

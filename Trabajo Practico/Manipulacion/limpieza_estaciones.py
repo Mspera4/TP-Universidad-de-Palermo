@@ -3,7 +3,7 @@
 import pandas as pd
 import numpy as np
 
-df_estaciones_depto = pd.read_csv('Tablas_originales/estaciones smn PAIS.csv')
+df_estaciones_depto = pd.read_csv('Trabajo Practico/Tablas_originales/estaciones smn PAIS.csv')
 df_estaciones_depto
 
 #limpiamos los nombres de las columnas para que coincidan con las otras tablas
@@ -39,7 +39,7 @@ df_estaciones['prov'] = df_estaciones['prov'].str.strip()
 #HACEMOS EL MERGE PARA QUE LA TABLA ESTACIONES COMPARTA EL ID_PROV CON EL RESTO DE LAS TABLAS
 
 #Cargo la tabla Provincias
-Provincias = pd.read_csv('Tablas_creadas/Provincias.csv')
+Provincias = pd.read_csv('Trabajo Practico/Tablas_creadas/Provincias.csv')
 
 df_estacion = pd.merge(df_estaciones, Provincias, on='prov', how='left')
 df_estacion['prov_id'].dropna()
@@ -57,4 +57,4 @@ df_estacion
 #-----------------------------------------
 
 #Creamos el csv de la tabla limpia y lista para utilziar
-df_estacion.to_csv('Tablas_creadas/Estaciones.csv', index=False)
+df_estacion.to_csv('Trabajo Practico/Tablas_creadas/Estaciones.csv', index=False)

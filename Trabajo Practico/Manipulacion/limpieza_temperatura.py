@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import calendar
 
-df_temp_hum = pd.read_csv('Tablas_originales/Temperatura.csv')
+df_temp_hum = pd.read_csv('Trabajo Practico/Tablas_originales/Temperatura.csv')
 df_temp_hum.head()
 
 #-----------------------------------------
@@ -63,4 +63,4 @@ df_limpio = df_limpio.sort_values(by=['año', 'mes'])
 #-----------------------------------------
 
 #Creamos el csv de la tabla limpia y lista para utilziar
-df_limpio.to_csv('Tablas_creadas/Temp_humedad.csv', index=False)
+df_limpio.to_csv('Trabajo Practico/Tablas_creadas/Temp_humedad.csv', index=False)

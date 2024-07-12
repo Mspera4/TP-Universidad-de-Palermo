@@ -1,195 +1,169 @@
 id_depto,depto
-(en blanco),(en blanco)
-00002,COMUNA 1
-00006,(en blanco)
-00014,(en blanco)
-00018,(en blanco)
-00020,desconocido
-00028,Capital
-00030,(en blanco)
-00034,(en blanco)
-00038,(en blanco)
-00056,Grl. José de San Martín
-00066,(en blanco)
-00090,(en blanco)
-00126,Orán
-00220,desconocido
-00340,desconocido
-00900,desconocido
-00999,desconocido
-02000,*sin dato*
-02001,Comuna 01
-02002,Comuna 02
-02003,Comuna 03
-02004,Comuna 04
-02005,Comuna 05
-02006,Comuna 06
-02007,Comuna 07
-02008,Comuna 08
-02009,Comuna 09
-02010,Comuna 10
-02011,Comuna 11
-02012,Comuna 12
-02013,Comuna 13
-02014,Comuna 14
-02015,Comuna 15
-02999,desconocido
-06000,*sin dato*
-06007,Adolfo Alsina
-06014,Adolfo Gonzales Chaves
-06021,Alberti
-06028,Almirante Brown
-06035,desconocido
-06035,Avellaneda
-06042,Ayacucho
-06049,Azul
-06056,Bahía Blanca
-06063,Balcarce
-06070,Baradero
-06077,Arrecifes
-06084,Benito Juárez
-06091,Berazategui
-06091,desconocido
-06098,Berisso
-06105,Bolívar
-06112,Bragado
-06119,Brandsen
-06126,Campana
-06134,Cañuelas
-06140,Capitán Sarmiento
-06147,Carlos Casares
-06154,Carlos Tejedor
-06161,Carmen de Areco
-06168,Castelli
-06175,Colón
-06182,Coronel de Marina L. Rosales
-06189,Coronel Dorrego
-06203,Coronel Suárez
-06210,Chacabuco
-06217,Chascomús
-06224,Chivilcoy
-06231,DESCONOCIDO
-06238,Dolores
-06245,Ensenada
-06252,Escobar
-06260,Esteban Echeverría
-06266,Exaltación de la Cruz
-06266,Exaltacion de la Cruz
-06270,Ezeiza
-06274,Florencio Varela
-06277,Florentino Ameghino
-06280,General Alvarado
-06287,General Alvear
-06294,General Arenales
-06301,General Belgrano
-06308,General Guido
-06315,General Juan Madariaga
-06322,General La Madrid
-06329,General Las Heras
-06336,General Lavalle
-06343,General Paz
-06351,General Pinto
-06357,General Pueyrredon
-06357,General Pueyrredón
-06364,General San Martin
-06364,General Rodríguez
-06371,desconocido
-06371,General San Martín
-06371,#¡VALOR!
-06385,General Viamonte
-06392,General Villegas
-06399,Guaminí
-06406,Hipólito Yrigoyen
-06408,Hurlingham
-06410,Ituzaingó
-06410,Ituzaingo
-06412,José C. Paz
-06412,Jose C. Paz
-06413,Junín
-06420,La Costa
-06427,La Matanza
-06434,Lanús
-06434,Lan�s
-06441,La Plata
-06448,Laprida
-06455,Las Flores
-06462,Leandro N. Alem
-06466,Lezama
-06469,Lincoln
-06476,Lobería
-06483,Lobos
-06490,Lomas de Zamora
-06490,LOMAS DE ZAMORA
-06497,Luján
-06505,Magdalena
-06511,Maipú
-06515,Malvinas Argentinas
-06518,Mar Chiquita
-06525,Marcos Paz
-06532,Mercedes
-06539,Merlo
-06539,MERLO
-06547,Monte
-06553,Monte Hermoso
-06560,Moreno
-06568,Moron
-06568,Mor�n
-06568,Morón
-06574,Navarro
-06581,Necochea
-06588,9 de Julio
-06595,Olavarría
-06602,Patagones
-06609,Pehuajó
-06623,Pergamino
-06630,Pila
-06638,Pilar
-06644,Pinamar 
-06644,Pinamar
-06648,Presidente Perón
-06651,Puán
-06655,Punta Indio
-06658,Quimes
-06658,Quilmes
-06665,Ramallo
-06672,Rauch
-06679,Rivadavia
-06686,Rojas
-06693,Roque Pérez
-06700,Saavedra
-06707,Saladillo
-06714,Salto
-06721,Salliqueló
-06728,San Andrés de Giles
-06735,San Antonio de Areco
-06749,San Fernando
-06756,San Isidro
-06760,San Miguel
-06763,San Nicolás
-06770,San Pedro
-06778,San Vicente
-06784,Suipacha
-06791,Tandil
-06805,Tigre
-06819,Tornquist
-06826,Trenque Lauquen
-06833,Tres Arroyos
-06840,Tres de Febrero
-06847,Tres Lomas 
-06847,Tres Lomas
-06854,25 de Mayo
-06861,desconocido
-06861,Presidente Perón
-06861,Vicente López
-06868,Villa Gesell
-06875,Villarino
-06882,Zárate
-06882,Zarate
-06999,desconocido
+28,Capital
+56,Grl. José De San Martín
+126,Orán
+2000,*Sin Dato*
+2001,Comuna 01
+2002,Comuna 02
+2003,Comuna 03
+2004,Comuna 04
+2005,Comuna 05
+2006,Comuna 06
+2007,Comuna 07
+2008,Comuna 08
+2009,Comuna 09
+2010,Comuna 10
+2011,Comuna 11
+2012,Comuna 12
+2013,Comuna 13
+2014,Comuna 14
+2015,Comuna 15
+6000,*Sin Dato*
+6007,Adolfo Alsina
+6014,Adolfo Gonzales Chaves
+6021,Alberti
+6028,Almirante Brown
+6035,Avellaneda
+6042,Ayacucho
+6049,Azul
+6056,Bahía Blanca
+6063,Balcarce
+6070,Baradero
+6077,Arrecifes
+6084,Benito Juárez
+6091,Berazategui
+6098,Berisso
+6105,Bolívar
+6112,Bragado
+6119,Brandsen
+6126,Campana
+6134,Cañuelas
+6140,Capitán Sarmiento
+6147,Carlos Casares
+6154,Carlos Tejedor
+6161,Carmen De Areco
+6168,Castelli
+6175,Colón
+6182,Coronel De Marina L. Rosales
+6189,Coronel Dorrego
+6203,Coronel Suárez
+6210,Chacabuco
+6217,Chascomús
+6224,Chivilcoy
+6238,Dolores
+6245,Ensenada
+6252,Escobar
+6260,Esteban Echeverría
+6266,Exaltación De La Cruz
+6266,Exaltacion De La Cruz
+6270,Ezeiza
+6274,Florencio Varela
+6277,Florentino Ameghino
+6280,General Alvarado
+6287,General Alvear
+6294,General Arenales
+6301,General Belgrano
+6308,General Guido
+6315,General Juan Madariaga
+6322,General La Madrid
+6329,General Las Heras
+6336,General Lavalle
+6343,General Paz
+6351,General Pinto
+6357,General Pueyrredón
+6357,General Pueyrredon
+6364,General Rodríguez
+6364,General San Martin
+6371,#¡Valor!
+6371,General San Martín
+6385,General Viamonte
+6392,General Villegas
+6399,Guaminí
+6406,Hipólito Yrigoyen
+6408,Hurlingham
+6410,Ituzaingó
+6410,Ituzaingo
+6412,José C. Paz
+6412,Jose C. Paz
+6413,Junín
+6420,La Costa
+6427,La Matanza
+6434,Lanús
+6441,La Plata
+6448,Laprida
+6455,Las Flores
+6462,Leandro N. Alem
+6466,Lezama
+6469,Lincoln
+6476,Lobería
+6483,Lobos
+6490,Lomas De Zamora
+6497,Luján
+6505,Magdalena
+6511,Maipú
+6515,Malvinas Argentinas
+6518,Mar Chiquita
+6525,Marcos Paz
+6532,Mercedes
+6539,Merlo
+6547,Monte
+6553,Monte Hermoso
+6560,Moreno
+6568,Moron
+6568,Morón
+6574,Navarro
+6581,Necochea
+6588,9 De Julio
+6595,Olavarría
+6602,Patagones
+6609,Pehuajó
+6623,Pergamino
+6630,Pila
+6638,Pilar
+6644,Pinamar
+6644,Pinamar 
+6648,Presidente Perón
+6651,Puán
+6655,Punta Indio
+6658,Quilmes
+6658,Quimes
+6665,Ramallo
+6672,Rauch
+6679,Rivadavia
+6686,Rojas
+6693,Roque Pérez
+6700,Saavedra
+6707,Saladillo
+6714,Salto
+6721,Salliqueló
+6728,San Andrés De Giles
+6735,San Antonio De Areco
+6749,San Fernando
+6756,San Isidro
+6760,San Miguel
+6763,San Nicolás
+6770,San Pedro
+6778,San Vicente
+6784,Suipacha
+6791,Tandil
+6805,Tigre
+6819,Tornquist
+6826,Trenque Lauquen
+6833,Tres Arroyos
+6840,Tres De Febrero
+6847,Tres Lomas 
+6847,Tres Lomas
+6854,25 De Mayo
+6861,Vicente López
+6861,Presidente Perón
+6868,Villa Gesell
+6875,Villarino
+6882,Zárate
+6882,Zarate
 10007,Ambato
 10014,Ancasti
 10021,Andalgalá
-10028,Antofagasta de la Sierra
+10028,Antofagasta De La Sierra
 10035,Belén
 10042,Capayán
 10049,Capital
@@ -202,13 +176,11 @@ id_depto,depto
 10098,Santa Rosa
 10105,Tinogasta
 10112,Valle Viejo
-10999,desconocido
 14007,Calamuchita
 14014,Capital
-14021,Colon
-14021,Col�n
 14021,Colón
-14028,Cruz del Eje
+14021,Colon
+14028,Cruz Del Eje
 14035,General Roca
 14042,General San Martín
 14049,Ischilín
@@ -217,8 +189,8 @@ id_depto,depto
 14070,Minas
 14077,Pocho
 14084,Presidente Roque Sáenz Peña
+14091,Grl. Jose De San Martin
 14091,Punilla
-14091,Grl. Jose de San Martin
 14098,Río Cuarto
 14105,Río Primero
 14112,Río Seco
@@ -226,18 +198,15 @@ id_depto,depto
 14126,San Alberto
 14133,San Javier
 14140,San Justo
-14147,Santa Mar�a
 14147,Santa María
 14154,Sobremonte
 14161,Tercero Arriba
 14168,Totoral
 14175,Tulumba
 14182,Unión
-14999,desconocido
-18000,*sin dato*
+18000,*Sin Dato*
 18007,Bella Vista
-18014,Berón de Astrada
-18021,CAPITAL
+18014,Berón De Astrada
 18021,Capital
 18028,Concepción
 18035,Curuzú Cuatiá
@@ -247,56 +216,50 @@ id_depto,depto
 18063,General Paz
 18070,Goya
 18077,Itatí
-18084,Capital
 18084,Ituzaingó
+18084,Capital
 18091,Lavalle
 18098,Mburucuyá
 18105,Mercedes
 18112,Monte Caseros
-18119,Paso de los Libres
+18119,Paso De Los Libres
 18126,Saladas
 18133,San Cosme
-18140,San Luis del Palmar
+18140,San Luis Del Palmar
 18147,San Martín
 18154,San Miguel
 18161,San Roque
 18168,Santo Tomé
 18175,Sauce
-18999,desconocido
 22007,Almirante Brown
 22014,Bermejo
-22021,desconocido
-22021,Comandante Fernández
 22021,Comandante Fernandez
+22021,Comandante Fernández
 22028,Chacabuco
-22028,CHACABUCO
-22036,12 de Octubre
-22039,2 de Abril
+22036,12 De Octubre
 22039,2 De Abril
-22043,Fray Justo Santa María de Oro
+22043,Fray Justo Santa María De Oro
 22049,General Belgrano
 22056,General Donovan
-22063,General Güemes
 22063,General Guemes
+22063,General Güemes
 22070,Independencia
 22077,Libertad
 22084,Libertador General San Martin
 22084,Libertador General San Martín
 22091,Maipú
 22098,Mayor Luis J. Fontana
-22105,9 de Julio
+22105,9 De Julio
 22112,O'Higgins
-22119,Presidencia de la Plaza
-22126,1a de Mayo
-22126,1º de Mayo
+22119,Presidencia De La Plaza
+22126,1A De Mayo
+22126,1º De Mayo
 22133,Quitilipi
-22140,SAN FERNANDO
 22140,San Fernando
 22147,San Lorenzo
 22154,Sargento Cabral
 22161,Tapenagá
-22168,25 de Mayo
-22999,desconocido
+22168,25 De Mayo
 26007,Biedma
 26014,Cushamen
 26021,Escalante
@@ -314,7 +277,7 @@ id_depto,depto
 30042,Feliciano
 30049,Gualeguay
 30056,Gualeguaychú
-30063,Islas del Ibicuy
+30063,Islas Del Ibicuy
 30070,La Paz
 30077,Nogoyá
 30084,Paraná
@@ -323,44 +286,37 @@ id_depto,depto
 30098,Uruguay
 30105,Victoria
 30113,Villaguay
-30999,desconocido
 31084,Paraná
 32084,Paraná
 33084,Paraná
 34007,Bermejo
 34014,Formosa
-34014,FORMOSA
 34021,Laishi
 34028,Matacos
 34035,Patiño
-34035,PATIÑO
 34042,Pilagás
 34049,Pilcomayo
-34056,Pirané
 34056,Pirane
+34056,Pirané
 34063,Ramón Lista
-34340,desconocido
-34999,desconocido
 38007,Cochinoca
 38014,El Carmen
 38021,Dr. Manuel Belgrano
 38028,Humahuaca
 38035,Ledesma
-38042,Palpalá 
 38042,Palpala
+38042,Palpalá 
 38042,Palpalá
 38056,San Antonio
 38063,San Pedro
-38070,Santa Barbara
 38070,Santa Bárbara
-38070,SAnta Bárbara
+38070,Santa Barbara
 38084,Susques
 38094,Tilcara
 38098,Tumbaya
 38105,Valle Grande
 38112,Yavi
-38182,Coronel de Marina L. Rosales
-38999,desconocido
+38182,Coronel De Marina L. Rosales
 42007,Atreucó
 42021,Capital
 42028,Catriló
@@ -385,8 +341,8 @@ id_depto,depto
 46035,Chamical
 46042,Chilecito
 46042,Chilecito 
-46049,Famatina
 46049,Famatina 
+46049,Famatina
 46056,General Angel V. Peñaloza
 46063,General Belgrano
 46070,General Juan F. Quiroga
@@ -396,19 +352,17 @@ id_depto,depto
 46098,Vinchina
 46105,Independencia
 46112,Rosario Vera Peñaloza
-46119,San Blas de los Sauces
+46119,San Blas De Los Sauces
 46126,Sanagasta
-46999,desconocido
 50007,Capital
 50014,General Alvear
 50021,Godoy Cruz
 50028,Guaymallén
 50035,Junín
-50035,Jun�n
 50042,La Paz
 50049,Las Heras
 50056,Lavalle
-50063,Luján de Cuyo
+50063,Luján De Cuyo
 50070,Maipú
 50077,Malargüe
 50084,Rivadavia
@@ -416,24 +370,22 @@ id_depto,depto
 50098,San Martín
 50105,San Rafael
 50112,Santa Rosa
-50119,Tunuyán
 50119,Tunuyan
+50119,Tunuyán
 50126,Tupungato
-50999,desconocido
 54007,Apostoles
 54007,Apóstoles
 54014,Cainguás
 54021,Candelaria
-54028,CAPITAL
 54028,Capital
 54035,Concepción
 54035,Concepción 
 54042,Eldorado
 54049,General Manuel Belgrano
-54056,Guarani
 54056,Guaraní
-54063,Iguazu
+54056,Guarani
 54063,Iguazú
+54063,Iguazu
 54070,Leandro N. Alem
 54077,Libertador Grl. San Martín
 54077,Libertador Grl. San Martin
@@ -443,10 +395,10 @@ id_depto,depto
 54098,San Ignacio
 54105,San Javier
 54112,San Pedro
-54119,25 de Mayo
+54119,25 De Mayo
 58007,Aluminé
 58014,Añelo
-58028,COLON
+58028,Colon
 58035,Confluencia
 58042,Chos Malal
 58049,Huiliches
@@ -463,22 +415,19 @@ id_depto,depto
 62063,Pichi Mahuida
 62077,San Antonio
 62084,Valcheta
-62091,25 de Mayo
-66007,Grl. José de San Martín
+62091,25 De Mayo
 66007,Orán
+66007,Grl. José De San Martín
 66007,Anta
 66014,Cachi
 66021,Cafayate
-66028,CAPITAL
 66028,Capital
 66035,Cerrillos
 66035,Cerrillos 
 66042,Chicoana
-66049,General Güemes
 66049,General Guemes
-66049,GENERAL GÜEMES
-66056,Grl. José de San Martín
-66056,Grl. Jose de San Martin
+66049,General Güemes
+66056,Grl. Jose De San Martin
 66056,Grl. José De San Martín
 66063,Guachipas
 66070,Iruya
@@ -486,21 +435,16 @@ id_depto,depto
 66084,La Candelaria
 66098,La Viña
 66105,Los Andes
-66105,LOS ANDES
 66112,Metan
 66112,Metán
 66119,Molinos
-66126,Orán
 66126,Oran
-66126,Or�n
+66126,Orán
 66133,Rivadavia
-66140,Rosario de la Frontera
 66140,Rosario De La Frontera
-66147,Rosario de Lerma
+66147,Rosario De Lerma
 66154,San Carlos
 66161,Santa Victoria
-66660,desconocido
-66999,desconocido
 70007,Albardón
 70014,Angaco
 70021,Calingasta
@@ -509,7 +453,7 @@ id_depto,depto
 70042,Chimbas
 70049,Iglesia
 70056,Jáchal
-70063,9 de Julio
+70063,9 De Julio
 70070,Pocito
 70077,Rawson
 70084,Rivadavia
@@ -518,14 +462,12 @@ id_depto,depto
 70105,Sarmiento
 70112,Ullúm
 70119,Valle Fértil
-70126,25 de Mayo
+70126,25 De Mayo
 70133,Zonda
-70999,desconocido
 74007,Ayacucho
 74014,Belgrano
 74021,Coronel Pringles
 74028,Chacabuco
-74028,CHACABUCO
 74035,General Pedernera
 74042,Gobernador Dupuy
 74049,Junín
@@ -538,11 +480,9 @@ id_depto,depto
 78035,Lago Buenos Aires
 78042,Magallanes
 78049,Río Chico
-78999,desconocido
 82007,Belgrano
 82014,Caseros
 82021,Castellanos
-82028,Constituci�n
 82028,Constitución
 82035,Garay
 82042,General López
@@ -550,14 +490,13 @@ id_depto,depto
 82056,Iriondo
 82063,La Capital
 82070,Las Colonias
-82077,9 de Julio
-82084,ROSARIO
+82077,9 De Julio
 82084,Rosario
 82091,San Cristobal
 82091,San Cristóbal
 82098,San Javier
-82105,San Jeronimo
 82105,San Jerónimo
+82105,San Jeronimo
 82112,San Justo
 82119,San Lorenzo
 82126,San Martín
@@ -568,20 +507,19 @@ id_depto,depto
 86028,Avellaneda
 86035,Banda
 86042,Belgrano
-86049,CAPITAL
 86049,Capital
 86056,Copo
-86063,Ciudad de Buenos Aires
+86063,Ciudad De Buenos Aires
 86063,Choya
 86070,Figueroa
 86077,General Taboada
-86084,Guasayán
 86084,Capital
+86084,Guasayán
 86091,Jiménez
 86098,Juan F. Ibarra
 86105,Loreto
 86119,Moreno
-86126,Ojo de Agua
+86126,Ojo De Agua
 86133,Pellegrini
 86140,Quebrachos
 86147,Río Hondo
@@ -591,11 +529,9 @@ id_depto,depto
 86175,San Martín
 86182,Sarmiento
 86189,Silípica
-86999,desconocido
 90007,Burruyacú
 90014,Cruz Alta
 90021,Chicligasta
-90021,CHICLIGASTA
 90028,Famaillá
 90035,Graneros
 90042,Juan Bautista Alberdi
@@ -604,16 +540,13 @@ id_depto,depto
 90063,Lules
 90070,Monteros
 90077,Río Chico
-90084,CAPITAL
 90084,Capital
 90091,Simoca
-90098,Tafí del Valle
+90098,Tafí Del Valle
 90105,Tafí Viejo
 90105,Tafi Viejo
 90112,Trancas
 90119,Yerba Buena
-90999,desconocido
 94007,Río Grande
 94014,Ushuaia
 94028,Antártida Argentina
-94999,desconocido

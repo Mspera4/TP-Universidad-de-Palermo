@@ -5,22 +5,22 @@ import pandas as pd
 import numpy as np
 import re
 import calendar
-import seaborn as sns
+'''import seaborn as sns
 import matplotlib.pyplot as plt
 import pycaret as pc
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
-sns.set_theme()
+sns.set_theme()'''
 
 #Cargamos los csv de la base de datos pública
-df2018_2 = pd.read_csv('Tablas_originales/Dengue, Zika 2018 - 2.csv')
-df2018 = pd.read_csv('Tablas_originales/Dengue, Zika 2018.csv')
-df2019 = pd.read_csv('Tablas_originales/Dengue, Zika 2019.csv')
-df2020 = pd.read_csv('Tablas_originales/Dengue, Zika 2020.csv')
-df2021 = pd.read_csv('Tablas_originales/Dengue, Zika 2021.csv')
-df2022 = pd.read_csv('Tablas_originales/Dengue, Zika 2022.csv')
-df2023 = pd.read_csv('Tablas_originales/Dengue, Zika 2023.csv')
-df2024 = pd.read_csv('Tablas_originales/Dengue, Zika 2024.csv')
+df2018_2 = pd.read_csv('Trabajo Practico/Tablas_originales/Dengue, Zika 2018 - 2.csv')
+df2018 = pd.read_csv('Trabajo Practico/Tablas_originales/Dengue, Zika 2018.csv')
+df2019 = pd.read_csv('Trabajo Practico/Tablas_originales/Dengue, Zika 2019.csv')
+df2020 = pd.read_csv('Trabajo Practico/Tablas_originales/Dengue, Zika 2020.csv')
+df2021 = pd.read_csv('Trabajo Practico/Tablas_originales/Dengue, Zika 2021.csv')
+df2022 = pd.read_csv('Trabajo Practico/Tablas_originales/Dengue, Zika 2022.csv')
+df2023 = pd.read_csv('Trabajo Practico/Tablas_originales/Dengue, Zika 2023.csv')
+df2024 = pd.read_csv('Trabajo Practico/Tablas_originales/Dengue, Zika 2024.csv')
 
 #-----------------------------------------
 
@@ -319,4 +319,4 @@ TablaCompleta = TablaCompleta.drop('semanas', axis=1)
 TablaCompleta.info()
 TablaCompleta.describe()
 
-TablaCompleta.to_csv('Tablas_creadas/TablaCompleta.csv', index=False)
+TablaCompleta.to_csv('Trabajo Practico/Tablas_creadas/TablaCompleta.csv', index=False)

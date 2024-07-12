@@ -1,9 +1,12 @@
 #EN ESTE ARCHIVO NORMALIZAMOS Y CREAMOS LAS TALBAS QUE SE RELACIONAN CON LA TABLA COMPLETA
 
 import pandas as pd
+import numpy as np
+import re
+import calendar
 
 #Cargamos la TablaCompleta
-TablaCompleta = pd.read_csv('Tablas_creadas/TablaCompleta.csv')
+TablaCompleta = pd.read_csv('Trabajo Practico/Tablas_creadas/TablaCompleta.csv')
 
 
 #Definimos las nuevas tablas
@@ -15,8 +18,8 @@ Reportes = TablaCompleta[['prov_id','id_depto', 'año', 'mes', 'evento', 'edad_i
 Reportes['id_reporte'] = range(1, len(Reportes) + 1)
 
 #Creamos las nuevas tablas
-Provincias.to_csv('Tablas_creadas/Provincias.csv', index=False)
-Departamentos.to_csv('Tablas_creadas/Departamentos.csv', index=False)
-Edades.to_csv('Tablas_creadas/Edades.csv', index=False)
-Eventos.to_csv('Tablas_creadas/Eventos.csv', index=False)
-Reportes.to_csv('Tablas_creadas/Reportes.csv', index=False)
+Provincias.to_csv('Trabajo Practico/Tablas_creadas/Provincias.csv', index=False)
+Departamentos.to_csv('Trabajo Practico/Tablas_creadas/Departamentos.csv', index=False)
+Edades.to_csv('Trabajo Practico/Tablas_creadas/Edades.csv', index=False)
+Eventos.to_csv('Trabajo Practico/Tablas_creadas/Eventos.csv', index=False)
+Reportes.to_csv('Trabajo Practico/Tablas_creadas/Reportes.csv', index=False)
