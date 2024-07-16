@@ -15,26 +15,26 @@ Posteriormente, se separará la tabla en varias subtablas para el normalizado y 
 Santiago Valdez  
 Mariano Sperat  
 Sofia Lescaffette  
-Rocio Sendra  
+
 
 
 ## Roadmap
 
-1) Estandarizado de las tablas oficiales del gobierno - Hecho
+1) Estandarizado de las tablas oficiales del gobierno
 
-2) Añadir Dataset de lluvias, humedad y de temperaturas por provincia (o departamento) anualizado para el período que cubren los datasets de dengue. (2018 - 2024) - En Proceso
+2) Añadir Dataset de lluvias, humedad y de temperaturas por provincia (o departamento) anualizado para el período que cubren los datasets de dengue. (2018 - 2024) 
 
-3) Normalizar todas las tablas - Hecho
+3) Normalizar todas las tablas
 
-4) Gráficos y Análisis Exploratorio - En Proceso
+4) Gráficos y Análisis Exploratorio
 
-5) Reconocimiento de patrones (clasificación, regresión, clustering, etc) - Pendiente
+5) Reconocimiento de patrones (clasificación, regresión, clustering, etc)
 
-6) Evaluación e interpretación de métricas - Pendiente
+6) Evaluación e interpretación de métricas
 
-7) Armar modelo predictivo y gráficos finales - Pendiente
+7) Armar modelo predictivo y gráficos finales
 
-8) Dashboard - Pendiente
+8) Dashboard 
 
 ------------------------------------------------------------------------------------
 
@@ -52,14 +52,14 @@ Then, the tables will be separated into several subtables to normalize and maxim
 Santiago Valdez  
 Mariano Sperat  
 Sofia Lescaffette  
-Rocio Sendra  
+
 
 
 ## Roadmap
 
 1) Standardizing the government datasets - Done
 
-2) Adding and integrating datasets about rainfall, humidity and temperature by province (or department) annualized for the years covered by the dengue datasets. (2018 - 2024) - In Progress
+2) Adding and integrating datasets about rainfall, humidity and temperature by province (or department) annualized for the years covered by the dengue datasets. (2018 - 2024)
 
 3) Normalizing all tables
 
